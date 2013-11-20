@@ -8,7 +8,7 @@ d3.select(".para")
   .enter()
    .append("p")
    .text(function(d){
-      
+           
        return d;
    });
 

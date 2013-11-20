@@ -16,3 +16,7 @@
 
 */captcha/*
 globals.php
+_site
+node_modules
+.DS_Store
+
